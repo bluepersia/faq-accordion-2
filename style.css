@@ -27,6 +27,10 @@ body {
 
 /*Typography*/
 
+.c {
+    font-family: "Work Sans", sans-serif;
+}
+
 .c__h1 
 {
     font-size: 3.5rem;
